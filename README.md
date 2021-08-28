@@ -1,4 +1,2 @@
 # Tic-Tac-Toe
-A simple tic-tac-toe game
-
-Beginner python programmer. Run all to start the game.
+My first programming project, left here as reminder of of how far I've come. 
